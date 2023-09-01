@@ -19,7 +19,8 @@
     "react-router-dom": "^6.5.0",
     "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4",
-    "yup": "^0.32.11"
+    "yup": "^0.32.11",
+    "redux": "^7.2.2" // Add Redux as a dependency
   },
   "scripts": {
     "start": "react-scripts start",

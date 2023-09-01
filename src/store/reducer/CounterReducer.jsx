@@ -16,3 +16,5 @@ export function CounterReducer(state = initialState, action) {
       return state;
   }
 }
+
+export default CounterReducer;

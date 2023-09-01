@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import CounterFunction from "./components/CounterFunction";
 

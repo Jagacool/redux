@@ -9,3 +9,5 @@ export const decrement = () => {
     type: "decrement",
   };
 };
+
+export default CounterAction;
